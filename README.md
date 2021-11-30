@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Byron
-- 👀 I'm an iOS/tvOS sometime React Native engineer by day. Most nights I'm tinkering with new technology, working on a game with Unity or playing with eletronic components, my 3d printer and an arduino.
-- 🌱 I'm currently learning Rust. It feels like being thrown into the deep end but I'm really enjoying the swim.
+- 🧑🏼‍💻 I'm an iOS/tvOS engineer by day.
